@@ -1,0 +1,2 @@
+Exemplo de arquivo no python
+Linha 2 outra linha no arquivo
